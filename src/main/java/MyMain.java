@@ -1,6 +1,6 @@
 public class MyMain {
     public static void main(String[] args) {
-        // Write some code here!
-
+        //Hello World Program
+        System.out.println("Hello world!");
     }
 }

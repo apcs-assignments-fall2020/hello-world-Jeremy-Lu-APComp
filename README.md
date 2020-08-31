@@ -11,6 +11,8 @@ make run
 Or go to [MyMain.java](src/main/java/MyMain.java) and click on `Run` above the `main()` method.
 
 ## Run your tests with:
-```shell script
-make test
-```
+'''
+public static void (String[] args){
+    System.out.println("Hello World");
+}
+'''
